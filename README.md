@@ -26,7 +26,7 @@ To run the website locally, follow these steps:
 
 - **External Libraries**: The project incorporates external libraries such as `react-dom` for rendering React components into the HTML page.
 
-![Final Output](output.png)
+![Final Output](public/output.png)
 
 ## About
 
