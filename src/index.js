@@ -8,7 +8,7 @@ import './index.css';
       ingredients: "a thin pancake in South Indian cuisine made from a fermented batter of ground black lentils and rice",
       price: 45,
       photoName: "tiffins/masala-dosa.webp",
-      soldOut: false,
+      soldOut: true,
     },
     {
       name: "Bajji",
