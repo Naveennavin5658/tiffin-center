@@ -4,7 +4,7 @@ Welcome to Naveen Tiffin Hut, a place where taste and creativity blend together!
 
 ## Description
 
-This repository contains the source code for Naveen Tiffin Hut's menu website. The website showcases a variety of authentic Indian tiffins with their descriptions, ingredients, and prices. Customers can explore the menu, place orders online, and visit the restaurant during operating hours.
+This repository contains the source code for Naveen Tiffin Hut's menu website. The website showcases a variety of authentic Indian tiffins with their descriptions, ingredients, and prices. Customers can explore the menu. This is a just a static home page.
 
 ## Installation
 
